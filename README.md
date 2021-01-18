@@ -1,6 +1,5 @@
 # Shutup, Spotify
-Makes your spotify shut up. We don't want the premium, weirdo.
-
+Makes your spotify Shut up.
 ## How do I use this?
 * [Download](https://github.com/Takaovi/SpotifyShutUp/archive/Public.zip)
 * Run RUN_ME.bat
