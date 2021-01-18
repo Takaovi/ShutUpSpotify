@@ -7,4 +7,4 @@ Makes your spotify shut up. We don't want the premium, weirdo.
 * Enjoy
 
 ## Why is this repo missing the S.exe? (Old version of Spotify, Spotify.exe)
-* It's too large to upload, download it from [here [MEGA]](https://mega.nz/file/mKYEVT7A#6vdTcTide4u5liZBSYN1diSvJqKC35avvV_PknEAAz8) or [here [Releases]](https://github.com/Takaovi/SpotifyShutUp/archive/Public.zip).
+* It's too large to upload, download it from [here](https://github.com/Takaovi/ShutUpSpotify/releases/download/Public/S.exe).
