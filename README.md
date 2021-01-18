@@ -1,5 +1,5 @@
 # SpotifyShutUp
-Makes your spotify shut up.
+Makes your spotify shut up. We don't want the premium, weirdo.
 
 ## How do I use this?
 * [Download](https://github.com/Takaovi/SpotifyShutUp/archive/Public.zip)
