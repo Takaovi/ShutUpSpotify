@@ -1,4 +1,4 @@
-# SpotifyShutUp
+# Shutup, Spotify
 Makes your spotify shut up. We don't want the premium, weirdo.
 
 ## How do I use this?
