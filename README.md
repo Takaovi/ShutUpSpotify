@@ -1,3 +1,7 @@
 # SpotifyShutUp
+Makes your spotify shut up.
 
-## Download three files, run RUN_ME.bat, enjoy. Spotify will finally shut up.
+## How do I use this?
+* Download three files: S.exe, hosts and RUN_ME.bat.
+* Run RUN_ME.bat.
+* Enjoy.
