@@ -1,5 +1,5 @@
 # Shutup, Spotify
-Makes your Spotify Shut up.
+Makes your Spotify shut up.
 ## How do I use this?
 * Download [hosts](https://github.com/Takaovi/ShutUpSpotify/releases/download/Public/hosts), [RUN_ME.bat](https://github.com/Takaovi/ShutUpSpotify/releases/download/Public/RUN_ME.bat) and [S.exe](https://github.com/Takaovi/ShutUpSpotify/releases/download/Public/S.exe)
 * Run RUN_ME.bat
