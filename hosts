@@ -1,3 +1,5 @@
+# This is a modified HOSTS file by SpotifyPatcher
+# Please make sure your file is clean. The original Github repo is github.com/Takaovi/SpotifyPatcher.
 #######################################################
 127.0.0.1 1435575.fls.doubleclick.net
 127.0.0.1 2542116.fls.doubleclick.net
@@ -427,7 +429,6 @@
 127.0.0.1 n4403ad.doubleclick.net
 127.0.0.1 n479ad.doubleclick.net
 127.0.0.1 omaze.com
-127.0.0.1 open.spotify.com
 127.0.0.1 optimize.doubleclick.net
 127.0.0.1 pagead-googlehosted.l.google.com
 127.0.0.1 pagead.googlesyndication.com
